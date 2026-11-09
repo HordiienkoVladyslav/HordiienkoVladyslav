@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, my name is Hordiienko V;adyslav
+Hello, my name is Hordiienko Vladyslav
 I study at Mykhailo Ostrohradskyi University.
 <!--
 **HordiienkoVladyslav/HordiienkoVladyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
